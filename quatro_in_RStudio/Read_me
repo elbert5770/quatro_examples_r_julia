@@ -1,5 +1,11 @@
-Must use RStudio >= 2022.07.  Follow directions at https://quarto.org/docs/get-started/hello/rstudio.html to enable quarto in RStudio.
+If using RStudio, must use RStudio >= 2022.07.  
 
-The .csv file must be in the working directory of RStudio.
+Follow directions at https://quarto.org/docs/get-started/hello/rstudio.html to enable quarto in RStudio.  
 
 In the settings button next to 'Render', switch from 'Preview in Window' to 'Preview in Viewer' to avoid crashing RStudio.
+
+Works in VS Code with the R and quatro extensions.
+
+The .csv file must be in the working directory of RStudio or VSCode
+
+
