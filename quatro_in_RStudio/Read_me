@@ -1,0 +1,5 @@
+Must use RStudio >= 2022.07.  Follow directions at https://quarto.org/docs/get-started/hello/rstudio.html to enable quarto in RStudio.
+
+The .csv file must be in the working directory of RStudio.
+
+In the settings button next to 'Render', switch from 'Preview in Window' to 'Preview in Viewer' to avoid crashing RStudio.
